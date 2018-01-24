@@ -30,3 +30,8 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 8. Hvað eru jaðartæki?
 	Jarðtækin sjá um samskiptin milli þín og tölvunnar. Með þeim sendir þú boð eða einhverskonar gögn til tölvunnar og venjulega munt þú sjá árangurinn/útkomuna á skjánum þínum.
+
+9. Nefndu þrjú dæmi um inntakstæki.
+	1. lyklaborð
+	2. mús
+	3. hjlóðnemi
