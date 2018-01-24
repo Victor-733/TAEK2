@@ -37,12 +37,14 @@ Jarðtækin sjá um samskiptin milli þín og tölvunnar. Með þeim sendir þú
 3. hjlóðnemi
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-| Tables        | Are           | Cool  |
+| Partur        | Týpa           | Verslun | Verð  |
 | ------------- |:-------------:| -----:|
-| Kassi         | Sharkoon VG5-W green ATX turnkassi | 9500kr. |
-| Harður Diskur     | WD Black 1TB diskur | 14.750kr. |
-| SSD | Samsung 960 EVO M.2 250GB Solid-State SSD | 18.900kr. |
-| Móðurborð | Aorus Z370 Gaming K3 | 29.990kr. |
-| Skjákort | Gigabyte GeForce GTX 1080 Aorus skjákort 8GB GDDR5X | 83.900kr. |
-| Aflgjafi | Corsair CX750M | 18.750kr. |
-| Minni | Corsair 16GB kit (2x8GB) DDR4 3000MHz, CL15, Vengeance LPX | 25.900kr. |
+| Kassi         | Sharkoon VG5-W green ATX turnkassi | Kísildalur | 9500kr. |
+| Harður Diskur     | WD Black 1TB diskur | @tt.is | 14.750kr. |
+| SSD | Samsung 960 EVO M.2 250GB Solid-State SSD | Tölvutækni | 18.900kr. |
+| Móðurborð | Aorus Z370 Gaming K3 | Tölvutek | 29.990kr. |
+| Skjákort | Gigabyte GeForce GTX 1080 Aorus skjákort 8GB GDDR5X | Ódýrið | 83.900kr. |
+| Aflgjafi | Corsair CX750M | @tt.is | 18.750kr. |
+| Minni | Corsair 16GB kit (2x8GB) DDR4 3000MHz, CL15, Vengeance LPX | Tölvutækni | 25.900kr. |
+|Örgjörvi | Intel Core i7-7700K 4.2GHz, LGA1151 Kaby Lake, Quad-Core | Tölvutækni | 42.900kr. |
+|||| Samtals: 201.690kr. |
