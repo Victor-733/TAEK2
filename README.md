@@ -38,7 +38,7 @@ Jarðtækin sjá um samskiptin milli þín og tölvunnar. Með þeim sendir þú
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 | Partur        | Týpa           | Verslun | Verð  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:| -----------:|
 | Kassi         | Sharkoon VG5-W green ATX turnkassi | Kísildalur | 9500kr. |
 | Harður Diskur     | WD Black 1TB diskur | @tt.is | 14.750kr. |
 | SSD | Samsung 960 EVO M.2 250GB Solid-State SSD | Tölvutækni | 18.900kr. |
