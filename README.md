@@ -15,3 +15,15 @@ verjast því þegar unnið er með tölvubúnað?
 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 	Þegar þú ert að kaupa nýjan spennugjafa eða spennugjafa til þess að setja saman tölvu þá þarftu að hafa í huga að athuga hvort að spennugjafinn passi á móðurborðið þitt og hversu mikla spennu þú þarft fyrir tölvuna (oftast 500-700W)	
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	1. greina vandamálið
+	2. Hver er ástæðan
+	3. prófa lausn
+	4. innleiða lausn
+	5. prófa lausn
+	6. skrá vandamálið og lausn
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+	Opinn spurning getur verið svarað með alls konar svörum á meða lokuð spurning er venjulega svarað með já/nei
