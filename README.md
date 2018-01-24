@@ -27,3 +27,6 @@ verjast því þegar unnið er með tölvubúnað?
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
 	Opinn spurning getur verið svarað með alls konar svörum á meða lokuð spurning er venjulega svarað með já/nei
+
+8. Hvað eru jaðartæki?
+	Jarðtækin sjá um samskiptin milli þín og tölvunnar. Með þeim sendir þú boð eða einhverskonar gögn til tölvunnar og venjulega munt þú sjá árangurinn/útkomuna á skjánum þínum.
