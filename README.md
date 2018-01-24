@@ -12,3 +12,6 @@ TÆK - Verkefni
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
 	ESD stendur fyrir electro static discharge. Það eru margar leiðir til að verjast henni en nokkrar af þeim helstu er að vera með armband eða nota anti-ESD mottu undir tölvunni þegar þú ert að vinna með hana.
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+	Þegar þú ert að kaupa nýjan spennugjafa eða spennugjafa til þess að setja saman tölvu þá þarftu að hafa í huga að athuga hvort að spennugjafinn passi á móðurborðið þitt og hversu mikla spennu þú þarft fyrir tölvuna (oftast 500-700W)	
